@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^9.11.1"
+    "eslint": "^9.11.1",
+    "prettier": "3.0.3"
   }
 }
